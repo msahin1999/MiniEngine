@@ -1,5 +1,5 @@
 unit main;
-
+//deneme yanýlma
 interface
 
 uses
