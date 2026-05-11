@@ -71,7 +71,7 @@ begin
   LastTime := SDL_GetTicks;
 
   Running := True;
-
+                                                                       ////
   while Running do
   begin
 
