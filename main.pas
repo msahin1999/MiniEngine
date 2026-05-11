@@ -1,5 +1,5 @@
 unit main;
-//deneme yanýlma
+//edited by ms.
 interface
 
 uses
@@ -71,7 +71,7 @@ begin
   LastTime := SDL_GetTicks;
 
   Running := True;
-                                                                       ////
+
   while Running do
   begin
 
